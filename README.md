@@ -1,6 +1,6 @@
 # surefire-report-bug
 
-This repository is created to easily reproduce the bug wich leads to malformed Junit xml report.
+This repository is created to reproduce a surefire plugin bug which leads to malformed Junit xml report.
 
 To reporduce run:
 ``mvn test``  
