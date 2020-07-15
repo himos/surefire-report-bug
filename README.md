@@ -1,6 +1,7 @@
 # surefire-report-bug
 
 This repository is created to reproduce a surefire plugin bug which leads to malformed Junit xml report.
+https://issues.apache.org/jira/browse/SUREFIRE-1821
 
 To reporduce run:
 ``mvn test``  
